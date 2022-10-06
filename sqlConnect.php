@@ -1,5 +1,5 @@
 <?php
-$serverName = "U2H"; //serverName\instanceName
+$serverName = "DESKTOP-7R1IKBB\SQLEXPRESS"; //serverName\instanceName
 $connectionInfo = array( "Database"=>"dbUser", "UID"=>"u2hvnm", "PWD"=>"hungf309");
 $conn = sqlsrv_connect( $serverName, $connectionInfo);
 
